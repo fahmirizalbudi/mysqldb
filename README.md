@@ -1,6 +1,6 @@
 # MySql.DB ![DLL Release](https://img.shields.io/github/v/release/fahmirizalbudi/mysqldb?label=DLL%20Release)
 
-A lightweight and minimal helper library for interacting with **MySQL databases in C# (.NET)**.\ MySql.DB provides a simple API for executing SQL commands and retrieving rows as dynamic objects without the complexity of an ORM.
+A lightweight and minimal helper library for interacting with **MySQL databases in C# (.NET)**. **MySql.DB** provides a simple API for executing SQL commands and retrieving rows as dynamic objects without the complexity of an ORM.
 
 ## Features
 
